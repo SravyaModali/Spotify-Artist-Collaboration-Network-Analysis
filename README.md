@@ -1,4 +1,4 @@
-# Spotify Artist Collaboration Network Analysis 🎵
+# Spotify Artist Collaboration Network Analysis
 
 ## Overview
 This project analyzes the Spotify artist collaboration network to understand how an artist’s **position in the collaboration graph** relates to their **popularity**. Instead of relying only on follower count, the analysis explores whether network influence and connectivity provide better insight into artist success.
